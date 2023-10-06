@@ -8,7 +8,6 @@ const dbConfig = {
     user: config.mysql.user,
     password: config.mysql.password,
     database: config.mysql.database,
-    port: config.mysql.port
 }
 
 //STRING PARA CADENA DE CONEXIÓN
