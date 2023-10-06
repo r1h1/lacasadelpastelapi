@@ -11,6 +11,6 @@ module.exports = {
         user: process.env.mysql_user || 'root',
         password: process.env.mysql_password || 'gIl8DVcRfYNRKdxnXRty',
         database: process.env.mysql_db || 'railway',
-        port: process.env.mysql_port || '7959'
+        port: process.env.mysql_port || 7959
     }
 }
